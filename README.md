@@ -3,3 +3,5 @@ Repo that players can follow along while the Dungeon master updates the informat
 
 
 
+[Meridian's Crest](./Meridians_Crest.md)
+
