@@ -1,2 +1,5 @@
 # Draught_Dungeon_Players
-Repo for players of Draught Dungeon D&amp;D campaign
+Repo that players can follow along while the Dungeon master updates the information they know.
+
+
+
